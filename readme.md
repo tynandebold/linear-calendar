@@ -1,2 +1,2 @@
 ## 2017 Linear Calendar
-A 2017 linear calendar build using D3.
+A 2017 linear calendar built using D3.
